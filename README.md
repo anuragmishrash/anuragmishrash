@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Anurag Mishra</h1>
 <h3 align="center">Full Stack Developer | MERN | Frontend | Backend & QA Enthusiast</h3>
 
+<h2 align="center">🌍 Portfolio</h2>
+
 <p align="center">
-  <b>🌐 Portfolio:</b> 👉 
   <a href="https://my-portfolio-six-rouge-49.vercel.app" target="_blank">
-    my-portfolio-six-rouge-49.vercel.app
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
+
 
 <p align="center">
   🌍 Open to Full-Stack • Frontend • Backend • QA Roles
