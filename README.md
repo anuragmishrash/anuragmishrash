@@ -1,112 +1,149 @@
-<!-- Header Block with Neon Gradient -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0d1117,9b26b6,57048a&height=180&section=header&text=Anurag%20Mishra&fontSize=70&fontAlignY=45&desc=Full%20Stack%20Developer%20|%20MERN%20|%20Backend%20|%20QA%20Enthusiast&descAlignY=78&descSize=20&animation=fadeIn" alt="Anurag Mishra Banner" width="100%"/>
-</div>
+<h1 align="center">Hi 👋, I'm Anurag Mishra</h1>
+<h3 align="center">Full Stack Developer | MERN | Frontend | Backend & QA Enthusiast</h3>
 
-<!-- Navigation / Social Buttons (Neon Style) -->
-<div align="center">
+<h2 align="center">🌍 Portfolio</h2>
+
+<p align="center">
   <a href="https://my-portfolio-six-rouge-49.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-ff00ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a" />
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
+</p>
+
+
+<p align="center">
+  🌍 Open to Full-Stack • Frontend • Backend • QA Roles
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+🎓 B.Tech CSE student at **Sir Padampat Singhania University (SPSU), Udaipur**  
+💼 **Ex-Node.js Developer Intern — Celebal Technologies**  
+💼 **Ex-Web Development Intern — iNeuBytes Technologies**  
+🚀 Passionate about building scalable & user-centric digital products  
+🔍 Strong interest in Backend Engineering & Quality Assurance  
+📚 Always learning & improving through real-world projects  
+📫 Reach me at: **itsanuragmishra99@gmail.com**
+
+---
+
+## 🌐 Socials  
+
+<p>
   <a href="mailto:itsanuragmishra99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-9b26b6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" />
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/anurag-mishra-218b94252">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.instagram.com/its_anurag.m">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a1a" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white">
   </a>
-</div>
+</p>
 
-<br/>
+---
 
-<!-- Main Bento Grid Layout -->
-<table border="0" width="100%">
-  <tr>
-    <!-- LEFT BOX: About Me -->
-    <td width="60%" valign="top">
-        <h3 align="center">👨‍💻 About Me</h3>
-        <br/>
-        🎓 <b>B.Tech CSE Student</b> <br/>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@ Sir Padampat Singhania University (SPSU)<br/>
-        💼 <b>Ex-Node.js Intern</b> @ Celebal Technologies<br/>
-        💼 <b>Ex-Web Dev Intern</b> @ iNeuBytes Technologies<br/>
-        <br/>
-        🚀 Passionate about <b>Scalable Backends</b> & <b>QA</b><br/>
-        📚 <i>"Code. Learn. Build. Improve. Repeat."</i><br/>
-        <br/>
-        <b>Current Focus:</b><br/>
-        Building user-centric digital products with a strong emphasis on bug-free experiences.
-    </td>
-    
-    <!-- RIGHT BOX: Tech Stack (Icon Grid) -->
-    <td width="40%" valign="top" align="center">
-        <h3 align="center">🛠 Tech Stack</h3>
-        <br/>
-        <!-- Languages -->
-        <img src="https://skillicons.dev/icons?i=js,ts,java,cpp&perline=4" />
-        <br/>
-        <!-- Frontend -->
-        <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&perline=4" />
-        <br/>
-        <!-- Backend & DB -->
-        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=4" />
-        <br/>
-        <!-- Tools -->
-        <img src="https://skillicons.dev/icons?i=git,github,postman,solidity&perline=4" />
-    </td>
-  </tr>
-</table>
+## 🛠 Tech Stack
 
-<!-- BOTTOM ROW: Projects & QA -->
-<table border="0" width="100%">
-  <tr>
-    <!-- BOTTOM LEFT: Featured Projects -->
-    <td width="50%" valign="top">
-        <h3 align="center">🚀 Featured Projects</h3>
-        <br/>
-        <b>🗓 <a href="https://appointment-scheduler-drab.vercel.app">Appointment Scheduler</a></b>
-        <br/>
-        <img src="https://img.shields.io/badge/MERN-Stack-black?style=flat-square&logo=react&color=black"/>
-        <br/>
-        <i>Role-based dashboards & Real-time scheduling</i>
-        <br/><br/>
-        <b>📰 AI-Driven News Platform</b>
-        <br/>
-        <img src="https://img.shields.io/badge/AI-Integration-black?style=flat-square&logo=openai&color=black"/>
-        <br/>
-        <i>Fake vs Real news detection with API fetch</i>
-        <br/><br/>
-        <b>🛒 SPSU Marketplace</b>
-        <br/>
-        <img src="https://img.shields.io/badge/Node.js-MySQL-black?style=flat-square&logo=nodedotjs&color=black"/>
-        <br/>
-        <i>Student-to-student buying & selling platform</i>
-    </td>
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
-    <!-- BOTTOM RIGHT: QA Mindset -->
-    <td width="50%" valign="top">
-        <h3 align="center">🧪 The QA Mindset</h3>
-        <div align="center">
-            <br/>
-            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F700FF&center=true&vCenter=true&width=300&lines=Test+Like+a+User;Think+Like+a+Developer;Document+Like+a+Pro" alt="QA Motto" />
-        </div>
-        <br/>
-        <ul>
-            <li>✅ <b>Testing:</b> Structured Test Cases & Regression</li>
-            <li>✅ <b>Validation:</b> API (Postman) & Manual UI</li>
-            <li>✅ <b>Goal:</b> 100% Bug-Free User Experience</li>
-        </ul>
-    </td>
-  </tr>
-</table>
+### 🎨 Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwindcss-%231572B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<!-- Footer -->
-<div align="center">
-    <br/>
-    <p>
-      👀 <b>Open to Roles:</b> Full-Stack • Frontend • Backend • QA
-    </p>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=57048a,9b26b6&height=80&section=footer" width="100%"/>
-</div>
+### ⚙️ Backend
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![REST API](https://img.shields.io/badge/REST%20APIs-%23007396.svg?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-%2300A3E0.svg?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🧪 QA & Testing
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-%23007ACC.svg?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API%20Testing-%2300A3E0.svg?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FE6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Test Case Writing](https://img.shields.io/badge/Test%20Case%20Writing-%23319773.svg?style=for-the-badge)
+![Debugging](https://img.shields.io/badge/Debugging-%23FFB000.svg?style=for-the-badge)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+---
+
+## 🚀 Featured Projects
+
+### 🗓 Appointment Scheduler — MERN Stack
+🔗 Live: https://appointment-scheduler-drab.vercel.app  
+💻 Code: https://github.com/anuragmishrash/appointment-scheduler  
+
+✔ Role-based dashboards (Business & Clients)  
+✔ Secure authentication  
+✔ Appointment booking & management  
+✔ Real-time availability scheduling  
+✔ Responsive & user-friendly UI  
+
+---
+
+### 📰 AI-Driven News Platform — iNeuBytes Internship  
+✔ Integrated AI model to detect fake vs real news  
+✔ Implemented API-based news fetch system  
+✔ Developed frontend UI & workflows  
+✔ Focused on usability, validation & testing  
+
+---
+
+### 🛒 SPSU Marketplace  
+✔ Platform for students to buy/sell items  
+✔ Built using HTML • CSS • JS • Node.js • MySQL  
+✔ Secure authentication  
+✔ Product listing & management  
+
+---
+
+## 🧪 My QA Mindset
+
+🧠 Test like a user  
+🔍 Think like a developer  
+📑 Document like a professional  
+
+Experience includes  
+✔ Writing structured test cases  
+✔ API validation using Postman  
+✔ UI & Functional testing  
+✔ Reporting & tracking bugs  
+✔ Regression testing  
+
+---
+
+
+## 🌐 Portfolio
+
+⭐ Explore my work here  
+🔗 https://my-portfolio-six-rouge-49.vercel.app/
+
+---
+
+## 🤝 Connect With Me
+
+📩 Email — **itsanuragmishra99@gmail.com**  
+💼 LinkedIn — https://www.linkedin.com/in/anurag-mishra-218b94252  
+📂 GitHub — https://github.com/anuragmishrash  
+
+---
+
+<p align="center">
+✨ “Code. Learn. Build. Improve. Repeat.” ✨
+</p>
