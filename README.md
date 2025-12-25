@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://my-portfolio-six-rouge-49.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
 
