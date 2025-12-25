@@ -1,24 +1,19 @@
-<!-- Header Block -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20👋,%20I'm%20Anurag%20Mishra&fontSize=70&fontAlignY=40&animation=fadeIn" alt="Header" width="100%"/>
-  
-  <h3>Full Stack Developer 🚀 | MERN | Frontend | Backend & QA Enthusiast</h3>
-  
-  <br/>
-  
-  <!-- Dynamic Typing Effect -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;MERN+Stack+Specialist;Quality+Assurance+Enthusiast;Always+Learning+%26+Improving" alt="Typing SVG" />
-  </a>
-  
-  <br/>
-  <br/>
-  <!-- Portfolio Button -->
+<h1 align="center">Hi 👋, I'm Anurag Mishra</h1>
+<h3 align="center">Full Stack Developer | MERN | Frontend | Backend & QA Enthusiast</h3>
+
+<h2 align="center">🌍 Portfolio</h2>
+
+<p align="center">
   <a href="https://my-portfolio-six-rouge-49.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/✨%20Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=black" height="40">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
-  <p>🌍 Open to **Full-Stack • Frontend • Backend • QA Roles**</p>
-</div>
+</p>
+
+
+<p align="center">
+  🌍 Open to Full-Stack • Frontend • Backend • QA Roles
+</p>
+
 ---
 
 ## 👨‍💻 About Me
