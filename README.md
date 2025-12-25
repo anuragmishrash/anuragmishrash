@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anurag Mishra</h1>
-<h3 align="center">Full Stack Developer | MERN | Backend & QA Enthusiast</h3>
+<h3 align="center">Full Stack Developer | MERN | Frontend | Backend & QA Enthusiast</h3>
 
 <p align="center">
-🌍 Open to Full-Stack / Backend Developer & QA opportunities  
+🌍 Open to Full-Stack / Frontend Developer / Backend Developer & QA opportunities  
 </p>
 
 ---
@@ -83,14 +83,6 @@ Experience includes
 
 ---
 
-## 🏅 Certifications
-
-🎓 Google — Foundations of Cybersecurity  
-🎓 Google — Data Foundations  
-🎓 Ethereum Blockchain App Development  
-🎓 Microsoft 365 Copilot  
-
----
 
 ## 🌐 Portfolio
 
