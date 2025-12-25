@@ -129,10 +129,8 @@ Experience includes
 ---
 
 
-## 🌐 Portfolio
-
-⭐ Explore my work here  
-🔗 https://my-portfolio-six-rouge-49.vercel.app/
+## 🌍 Portfolio (In Case You Missed It 😉)
+🔗 **https://my-portfolio-six-rouge-49.vercel.app**
 
 ---
 
