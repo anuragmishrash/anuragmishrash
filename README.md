@@ -1,149 +1,106 @@
-<h1 align="center">Hi 👋, I'm Anurag Mishra</h1>
-<h3 align="center">Full Stack Developer | MERN | Frontend | Backend & QA Enthusiast</h3>
+<div align="center">
 
-<h2 align="center">🌍 Portfolio</h2>
+# 👋 Hi there, I'm Anurag Mishra
+### 🚀 Full Stack Developer | QA Enthusiast | MERN Specialist
 
-<p align="center">
-  <a href="https://my-portfolio-six-rouge-49.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-six-rouge-49.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-mishra-218b94252)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsanuragmishra99@gmail.com)
 
+<img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Code%20Space&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<p align="center">
-  🌍 Open to Full-Stack • Frontend • Backend • QA Roles
-</p>
-
----
+</div>
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech CSE student at **Sir Padampat Singhania University (SPSU), Udaipur**  
-💼 **Ex-Node.js Developer Intern — Celebal Technologies**  
-💼 **Ex-Web Development Intern — iNeuBytes Technologies**  
-🚀 Passionate about building scalable & user-centric digital products  
-🔍 Strong interest in Backend Engineering & Quality Assurance  
-📚 Always learning & improving through real-world projects  
-📫 Reach me at: **itsanuragmishra99@gmail.com**
-
----
-
-## 🌐 Socials  
-
-<p>
-  <a href="mailto:itsanuragmishra99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/anurag-mishra-218b94252">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/its_anurag.m">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white">
-  </a>
-</p>
+- 🎓 **Education:** Final year B.Tech CSE at **Sir Padampat Singhania University (SPSU)**
+- 💼 **Experience:** Former Node.js Intern at **Celebal Technologies** & Web Dev Intern at **iNeuBytes**
+- 🎯 **Focus:** Building scalable, secure, and user-centric web applications
+- 🧠 **QA Mindset:** I don't just build; I ensure it's unbreakable through rigorous testing
+- 📫 **Contact:** [itsanuragmishra99@gmail.com](mailto:itsanuragmishra99@gmail.com)
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Languages & Frontend</h3>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Backend & Database</h3>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=google-cloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧪 QA & Testing</h3>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Manual_Testing-007ACC?style=flat-square" />
+      <img src="https://img.shields.io/badge/API_Testing-00A3E0?style=flat-square" />
+      <img src="https://img.shields.io/badge/Bug_Reporting-FFB000?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔧 Tools & DevOps</h3>
+      <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwindcss-%231572B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![REST API](https://img.shields.io/badge/REST%20APIs-%23007396.svg?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-%2300A3E0.svg?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🧪 QA & Testing
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-%23007ACC.svg?style=for-the-badge)
-![API Testing](https://img.shields.io/badge/API%20Testing-%2300A3E0.svg?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FE6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Test Case Writing](https://img.shields.io/badge/Test%20Case%20Writing-%23319773.svg?style=for-the-badge)
-![Debugging](https://img.shields.io/badge/Debugging-%23FFB000.svg?style=for-the-badge)
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ---
 
 ## 🚀 Featured Projects
 
-### 🗓 Appointment Scheduler — MERN Stack
-🔗 Live: https://appointment-scheduler-drab.vercel.app  
-💻 Code: https://github.com/anuragmishrash/appointment-scheduler  
+### 🗓 [Appointment Scheduler (MERN)](https://appointment-scheduler-drab.vercel.app)
+> A full-scale booking system with role-based dashboards and real-time scheduling.
+- **Tech:** MongoDB, Express, React, Node.js
+- **Key Feature:** Secure JWT Auth & Dynamic Availability.
 
-✔ Role-based dashboards (Business & Clients)  
-✔ Secure authentication  
-✔ Appointment booking & management  
-✔ Real-time availability scheduling  
-✔ Responsive & user-friendly UI  
+### 📰 [AI-Driven News Platform](https://github.com/anuragmishrash)
+> Intelligent news aggregator with fake news detection capabilities.
+- **Role:** Full Stack Developer Intern (iNeuBytes)
+- **Impact:** Improved news credibility using AI validation.
 
----
-
-### 📰 AI-Driven News Platform — iNeuBytes Internship  
-✔ Integrated AI model to detect fake vs real news  
-✔ Implemented API-based news fetch system  
-✔ Developed frontend UI & workflows  
-✔ Focused on usability, validation & testing  
-
----
-
-### 🛒 SPSU Marketplace  
-✔ Platform for students to buy/sell items  
-✔ Built using HTML • CSS • JS • Node.js • MySQL  
-✔ Secure authentication  
-✔ Product listing & management  
-
----
-
-## 🧪 My QA Mindset
-
-🧠 Test like a user  
-🔍 Think like a developer  
-📑 Document like a professional  
-
-Experience includes  
-✔ Writing structured test cases  
-✔ API validation using Postman  
-✔ UI & Functional testing  
-✔ Reporting & tracking bugs  
-✔ Regression testing  
+### 🛒 [SPSU Marketplace](https://github.com/anuragmishrash)
+> Community-driven E-commerce platform for university students.
+- **Tech:** Node.js, MySQL, HTML/CSS.
 
 ---
 
 
-## 🌐 Portfolio
+## 🧪 The QA Mindset
+> *"Quality is not an act, it is a habit."*
 
-⭐ Explore my work here  
-🔗 https://my-portfolio-six-rouge-49.vercel.app/
-
----
-
-## 🤝 Connect With Me
-
-📩 Email — **itsanuragmishra99@gmail.com**  
-💼 LinkedIn — https://www.linkedin.com/in/anurag-mishra-218b94252  
-📂 GitHub — https://github.com/anuragmishrash  
+- 🧠 **Think like a user** to identify UX friction.
+- 🔍 **Think like a developer** to find root causes.
+- 📑 **Document like a pro** for seamless bug tracking.
 
 ---
 
-<p align="center">
-✨ “Code. Learn. Build. Improve. Repeat.” ✨
-</p>
+<div align="center">
+
+### 🤝 Let's Connect!
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_anurag.m)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-mishra-218b94252)
+
+**✨ Code. Learn. Build. Improve. Repeat. ✨**
+
+</div>
