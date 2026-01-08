@@ -4,7 +4,7 @@
 <h2 align="center">🌍 Portfolio</h2>
 
 <p align="center">
-  <a href="https://my-portfolio-six-rouge-49.vercel.app" target="_blank">
+  <a href="https://my-portfolio-avsk.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
@@ -130,7 +130,7 @@ Experience includes
 
 
 ## 🌍 Portfolio (In Case You Missed It 😉)
-🔗 **https://my-portfolio-six-rouge-49.vercel.app**
+🔗 **https://my-portfolio-avsk.vercel.app/**
 
 ---
 
