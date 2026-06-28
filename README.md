@@ -158,16 +158,29 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Highlights & Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuragmishrash&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragmishrash&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+| | |
+|---|---|
+| 🤖 **92.4% Sentiment Accuracy** | FeedScope AI — XLM-RoBERTa multilingual model, no translation layer |
+| 📄 **IEEE Research Paper** | Co-authored on FeedScope AI · 3% similarity score |
+| 🏅 **Hackathon — TCSiON × In Time Tec 2026** | Built RAG pipeline from scratch in one day · 100% accuracy on 102 projects |
+| ⚡ **Sub-60ms Real-Time Latency** | Socket.io dashboard with live sentiment streams |
+| 💸 **40% API Cost Reduction** | TTL-indexed MongoDB caching layer for Gemini API calls |
+| 🛡️ **Production Bug Fix** | Root-caused Supabase `SameSite=None` cross-origin cookie failure on mobile |
+| 📦 **6 Deployed Projects** | All live on Vercel — MERN, AI/ML, Finance, SaaS, RAG, QA-tested |
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragmishrash&theme=tokyonight&hide_border=true"/>
-</p>
+---
+
+## 📌 Currently
+
+```text
+🔭 Actively looking for    SDE-1 · Full Stack · AI/ML Developer roles
+🌱 Currently learning      LLMs · RAG · Transformers · System Design
+💡 Building                AI-integrated full-stack products
+📍 Location                Rajasthan, India — Open to relocation / remote
+⚡ Available               Immediately
+```
 
 ---
 
